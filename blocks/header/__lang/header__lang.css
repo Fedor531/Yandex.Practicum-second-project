@@ -1,0 +1,13 @@
+@import url(./_type/header__lang_type_isActive.css);
+
+.header__lang {
+	text-decoration: none;
+	color: #fff;
+	margin: 0 0 0 16px;
+	font-weight: normal;
+}
+
+.header__lang:hover {
+	transition: .3s linear;
+	opacity: .7;
+}

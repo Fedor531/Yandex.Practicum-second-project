@@ -1,0 +1,28 @@
+@import url(./_line-spacing/content-title_line-spacing_coments.css);
+@import url(./_line-spacing/content-title_line-spacing_video.css);
+
+.content-title {
+	max-width: 800px;
+	text-align: center;
+	margin: 0 auto 48px auto;
+	font-weight: 900;
+	font-size: 72px;
+}
+
+@media all and (max-width: 1023px) {
+  .content-title {
+    padding: 0px 24px 0 24px;
+    font-size: 42px;
+    margin: 0 auto 24px auto;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .content-title {
+    padding: 0 16px 0 16px;
+    font-size: 32px;
+    margin: 0 auto 16px auto;
+  }
+}
+
+

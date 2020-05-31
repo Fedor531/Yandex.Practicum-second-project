@@ -1,0 +1,10 @@
+@import url(./_type/video__item_type_Kamchatka.css);
+@import url(./_type/video__item_type_Observatory.css);
+
+.video__item {
+  display: block;
+	position: relative;
+	width: 100%;
+  border-radius: 5px;
+  text-decoration: none;
+}

@@ -1,0 +1,9 @@
+.place__website {
+  margin-top: auto;
+}
+
+@media all and (max-width: 767px) {
+  .place__website {
+    display: none;
+  }
+}

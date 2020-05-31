@@ -1,0 +1,19 @@
+@import url(./__author/comment__author.css);
+@import url(./__qoute/comment__qoute.css);
+@import url(./__image/comment__image.css);
+
+.comment {
+  margin: 0 9px;
+  max-width: 382px;
+}
+
+@media all and (max-width: 1023px) {
+  .comment  {
+    display: flex;
+    flex-direction: column;
+    margin:0 9px 48px 9px;
+  }
+  .comment:last-child {
+    margin: 0;
+  }
+}

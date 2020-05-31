@@ -1,0 +1,24 @@
+.content-title_line-spacing_comments {
+  line-height: 108.9%;
+}
+
+@media all and (max-width: 1279px) {
+  .content-title_line-spacing_comments {
+    line-height: 65px;
+  }
+}
+
+@media all and (max-width: 1023px) {
+  .content-title_line-spacing_comments {
+    line-height: 46px;
+  }
+}
+
+
+@media all and (max-width: 424px) {
+  .content-title_line-spacing_comments {
+    line-height: 35px;
+  }
+}
+
+

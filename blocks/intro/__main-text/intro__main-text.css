@@ -1,0 +1,26 @@
+.intro__main-text {
+	max-width: 683px;
+	font-size: 14px;
+	line-height: 24px;
+  margin: 0 0 24px 0
+}
+
+@media all and (max-width: 1279px) {
+  .intro__main-text {
+    max-width: 692px;
+  }
+}
+
+@media all and (max-width: 1023px) {
+  .intro__main-text {
+    max-width: 100%;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .intro__main-text {
+    margin: 0 0 32px 0;
+    font-size: 16px;
+    line-height: 27px;
+  }
+}

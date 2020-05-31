@@ -1,0 +1,19 @@
+.content-title_line-spacing_video {
+  line-height: 78px;
+}
+
+@media all and (max-width: 1023px) {
+  .content-title_line-spacing_video {
+    line-height: 46px;
+  }
+}
+
+
+@media all and (max-width: 424px) {
+  .content-title_line-spacing_video {
+    line-height: 35px;
+  }
+}
+
+
+
