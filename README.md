@@ -6,7 +6,5 @@
 #### Стек технологий:
 * HTML 
 * CSS (flexbox, grid, BEM) <br/>
-#### Что дальше <br/>
-Планирую сделать возможность переключения сайта на английский язык </br>
 #### Просмотреть можно по ссылке: </br>
 https://yandex-practicum-adaptive-landing-page.now.sh/
